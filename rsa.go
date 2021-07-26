@@ -1,4 +1,4 @@
-package rsa
+package g4cipher
 
 import (
 	"bytes"

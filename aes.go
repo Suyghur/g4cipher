@@ -2,7 +2,7 @@
 //@Time     2021/07/26
 //@Author   #Suyghur,
 
-package aes
+package g4cipher
 
 import (
 	"bytes"

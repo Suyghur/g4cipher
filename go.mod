@@ -1,3 +1,3 @@
-module github.com/Suyghur/g4cipher
+module g4cipher
 
 go 1.16

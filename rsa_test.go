@@ -2,7 +2,7 @@
 //@Time     2021/07/26
 //@Author   #Suyghur,
 
-package rsa
+package g4cipher
 
 import "testing"
 
